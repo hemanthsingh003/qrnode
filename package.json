@@ -1,0 +1,17 @@
+{
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "Using text file or user-input, can generate a qr-code",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hemanth Singh",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.14",
+    "qr-image": "^3.2.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
